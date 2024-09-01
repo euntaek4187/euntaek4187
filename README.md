@@ -67,7 +67,8 @@
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://choiet.tistory.com)
 
-- [서비스 개발 후 한달간 운영 결과와 느낀 점](https://choiet.tistory.com/23)
+- [preprint-cloud 서비스 개발 후 한달간 운영 결과와 느낀 점](https://choiet.tistory.com/23)
+- [preprint-cloud 서비스 개발과정 & 10개월간의 운영 후기 (회고록)](https://choiet.tistory.com/79)
 - [명지대학교 입학관리팀 챗봇 LLM 서비스 개발의 시작](https://choiet.tistory.com/25)
 - [창업과 관련하여 기록하는 글](https://choiet.tistory.com/3)
 
