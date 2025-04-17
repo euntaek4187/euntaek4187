@@ -70,9 +70,18 @@
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://choiet.tistory.com)
 
+### 🖨️ 파일 클라우드 서비스 개발 & 운영 후기
 - [preprint-cloud 서비스 개발 후 한달간 운영 결과와 느낀 점](https://choiet.tistory.com/23)
 - [preprint-cloud 서비스 개발과정 & 10개월간의 운영 후기 (회고록)](https://choiet.tistory.com/79)
+
+### 🤖 명지대학교 입학관리팀 홈페이지 챗봇 개발 & 운영 후기
 - [명지대학교 입학관리팀 챗봇 LLM 서비스 개발의 시작](https://choiet.tistory.com/25)
+
+### 🗄️ 명지대학교 학생회관 1층 사물함 대여 및 결제 서비스 개발 & 운영 후기
+- [preprint - 명지대학교 학생회관 1층 사물함 대여서비스 개발 끝 & 런칭 하루전](https://choiet.tistory.com/89)
+- [preprint - 명지대 학생회관 1층 사물함 서비스 런칭 및 한달 운영후기](https://choiet.tistory.com/90)
+
+### 🚀 2022년 법인을 설립하고, 현재까지의 발자취 - 창업관련 포스팅
 - [창업과 관련하여 기록하는 글](https://choiet.tistory.com/3)
 
 
