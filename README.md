@@ -77,6 +77,9 @@
 
 ### 🤖 명지대학교 입학관리팀 홈페이지 챗봇 개발 & 운영 후기
 - [명지대학교 입학관리팀 챗봇 LLM 서비스 개발의 시작](https://choiet.tistory.com/25)
+- [명지대학교 입학관리팀 챗봇 - 창의적 SW프로그램 경진대회 MARU_EGG 최우수상 입상](https://choiet.tistory.com/80)
+- [명지대학교 입학관리팀 챗봇 - rag-llm 답변 퀄리티 대폭 상승 => 수준있는 pdf파싱 솔루션 & 메타데이터 기반 전처리](https://choiet.tistory.com/81)
+- [명지대학교 입학관리팀 홈페이지에 챗봇 서비스 오픈 - 11/22일 목](https://choiet.tistory.com/87)
 
 ### 🗄️ 명지대학교 학생회관 1층 사물함 대여 및 결제 서비스 개발 & 운영 후기
 - [preprint - 명지대학교 학생회관 1층 사물함 대여서비스 개발 끝 & 런칭 하루전](https://choiet.tistory.com/89)
