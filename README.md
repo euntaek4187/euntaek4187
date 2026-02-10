@@ -58,19 +58,6 @@
 
 ---
 
-## 💰 Quantitative Trading & Ventures
-*AI 모델 활용 또는 데이터 분석 및 수익 창출 프로젝트 현황*
-
-### 🤖 AI 기반 자동매매 시스템 (Proprietary Trading)
-- **기술 스택**: Django, Python, Pandas, Scikit-learn, 한국투자증권 KIS api
-- **주요 기반 기술**: 데이터 분석 기반 수익 최적화, 머신러닝 및 llm모델 기반 매매 진입점 최적화
-- **성과**: 
-  - 2026년 1~2월 기준 월 평균 손익률 32%
-  - 실시간 리스크 관리, 유전 알고리즘기반 수익률 최적화 및 자동 손절 시스템 구축
-  - AI 모델을 통한 시장 데이터 분석 및 피처 엔지니어링 수행
-
----
-
 
 ## 🛠️ Skills & Technologies
 
